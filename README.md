@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on learning how to use git.
+I'm currently learning how to program.
+I'm looking to collaborate on projects with a team of programers.
+How to reach me: email: michael.smith9817@gmail.com
+Fun fact: I'm a new york sports fan.
+
